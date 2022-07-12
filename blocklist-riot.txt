@@ -1,0 +1,11 @@
+# riot games
+ 
+0.0.0.0 leagueoflegends.com
+0.0.0.0 riotcdn.net
+0.0.0.0 riotgames.com
+0.0.0.0 champion.gg
+0.0.0.0 probuilds.net
+0.0.0.0 op.gg
+0.0.0.0 euw.op.gg
+0.0.0.0 na.op.gg
+0.0.0.0 br.op.g
