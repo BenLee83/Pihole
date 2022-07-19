@@ -1,0 +1,6 @@
+# Clash Royale
+
+0.0.0.0 inbox.clashroyale.com
+0.0.0.0 inbox-production.esports.clashroyale.com
+0.0.0.0 event-assets.clashroyale.com
+0.0.0.0 game.clashroyaleapp.com
