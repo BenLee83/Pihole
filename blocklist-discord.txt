@@ -34,4 +34,7 @@
 0.0.0.0 i18n.discord.com
 0.0.0.0 o13.ptr7216.discord.com
 0.0.0.0 gateway.discord.gg 
-
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 discordbotlist.com
+0.0.0.0 discordapp.com
+0.0.0.0 latency.discord.media
